@@ -1,5 +1,6 @@
 # Miembros
 
+* Super joto mayor
 * Black panther
 * Black Widow
 * Capitán America
